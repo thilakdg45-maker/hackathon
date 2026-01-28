@@ -1,0 +1,8 @@
+PyMuPDF
+streamlit
+pandas
+scikit-learn
+groq
+python-docx
+reportlab
+
